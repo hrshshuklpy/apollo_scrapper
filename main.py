@@ -182,8 +182,8 @@ def paginate_and_scrape(start_page, end_page):
 
 try:
     # Hardcoded credentials (replace these with your actual email and password)
-    email = 'hrshshukl.py@gmail.com'
-    password = 'amelio!ratE2'
+    email = 'abc@gmail.com'
+    password = 'abc123'
 
     # Log in to Apollo
     login_to_apollo(email, password)
